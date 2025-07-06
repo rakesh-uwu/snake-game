@@ -42,5 +42,4 @@ This is a modern twist on the classic Snake game, designed for 2-4 players. Each
 - Competitive egg collection
 - Survival mechanics
 
-## License
-MIT
+
